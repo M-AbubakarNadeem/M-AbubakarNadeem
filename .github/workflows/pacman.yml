@@ -1,0 +1,21 @@
+name: Generate Pacman Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Generate Pacman Contribution Animation
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: M-AbubakarNadeem
