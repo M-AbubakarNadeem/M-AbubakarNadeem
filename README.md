@@ -57,13 +57,15 @@ A web application for padel players to organize matches and track community game
 
 ***
 
-### 🥷 Ninja Developer Zone
+### 🎮 Animated Contribution Grid
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Pixel Ninja Walking" width="100%" />
+  <img src="https://raw.githubusercontent.com/M-AbubakarNadeem/M-AbubakarNadeem/output/github-snake-dark.svg" alt="Animated Contribution Grid" width="100%" />
 </div>
 
-<br />
+***
+
+### GitHub Activity
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=M-AbubakarNadeem&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="48%" />
