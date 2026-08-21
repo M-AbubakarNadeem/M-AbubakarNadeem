@@ -1,93 +1,65 @@
-<!-- RETRO GAMING BANNER / TYPING SVG -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1000&color=00FF66&center=true&vcenter=true&width=600&height=50&lines=GAME+START%3A+M-AbubakarNadeem;CLASS%3A+AI%2FML+%2B+Full-Stack+Dev;PRESS+START+TO+EXPLORE..." alt="Press Start Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=60A5FA&center=true&vcenter=true&width=600&height=50&lines=Muhammad+Abubakar+Nadeem;AI%2FML+%2B+Full-Stack+Engineer" alt="Typing Header" />
+
+  <p align="center">
+    <strong>Machine Learning & Full-Stack Developer</strong> • FAST NUCES Graduate
+  </p>
+
+  <p align="center">
+    <a href="https://www.linkedin.com/in/muhammad-abubakar-nadeem-045b582ba/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:abubakarnadeen01234@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
+    <a href="https://www.fiverr.com/abubakarnadem"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=flat-square&logo=fiverr&logoColor=white" alt="Fiverr" /></a>
+  </p>
 </div>
 
-<br />
+***
 
-<!-- PLAYER STATS ASCII BOX -->
-<pre align="center">
- ____________________________________________________________________
-|                                                                    |
-|   PLAYER: Muhammad Abubakar Nadeem                                 |
-|   CLASS : AI/ML Engineer & Full-Stack Developer                    |
-|   GUILD : FAST NUCES | Location: Pakistan                          |
-|   STATUS: 🟢 Online — Building AI Agents & Web Systems            |
-|____________________________________________________________________|
-</pre>
+### About
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-abubakar-nadeem-045b582ba/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:abubakarnadeen01234@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.fiverr.com/abubakarnadeem"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" /></a>
-</p>
+I build machine learning applications, RAG pipelines, and full-stack web platforms. My recent work focuses on semantic document search, real-time computer vision models, and building scalable backends with FastAPI and PostgreSQL.
 
----
+I graduated from FAST NUCES with a background in Computer Science and Data Science. I've worked on autonomous AI agents at Funavry Technologies and analytics dashboards at Excelerate.
 
-### 🕹️ Character Bio
+***
 
-Hey! I'm **Abubakar**, a developer building intelligent systems and full-stack web applications. I focus on **Retrieval-Augmented Generation (RAG)**, **computer vision**, and **high-performance APIs**.
+### Tech Stack
 
-- 🎮 **Main Quest**: Developing **UniSphere** — an AI tutoring & admissions platform with vector search (`pgvector`) and real-time mock exam generation.
-- ⚔️ **Past Raids**: AI Developer Intern at *Funavry Technologies* (Autonomous AI Agents) & Data Analyst Intern at *Excelerate*.
-- 🎓 **Guild / Education**: Computer Science / Data Science graduate at **FAST NUCES**.
+- **Machine Learning & AI:** Python, PyTorch, TensorFlow, OpenCV, FAISS, Hugging Face, RAG, LangChain, Scikit-Learn, Pandas, NumPy
+- **Web & Databases:** TypeScript, JavaScript, React, FastAPI, Flask, Node.js, PostgreSQL, pgvector, C++
+- **Tools & Infrastructure:** Git, GitHub, Docker, CUDA GPU Acceleration, Tableau
 
----
+***
 
-### 🎒 Skill Tree & Inventory
+### Featured Projects
 
-| Category | Abilities & Tools |
-| :--- | :--- |
-| **🧠 AI / Machine Learning** | PyTorch • TensorFlow • OpenCV • FAISS • Hugging Face • RAG • LangChain • Scikit-Learn |
-| **⚡ Backend & Data** | Python • FastAPI • Flask • PostgreSQL • pgvector • Node.js • C++ |
-| **💻 Frontend** | TypeScript • JavaScript • React 18 • HTML5 / CSS3 |
-| **🛠️ Infrastructure & Analytics** | Git • GitHub • Docker • CUDA GPU Acceleration • Tableau |
+#### [UniSphere](https://github.com/M-AbubakarNadeem)
+An AI tutoring and university admissions platform designed for 50+ Pakistani universities.
+- Built a semantic retrieval system using `pgvector` and transformer models to process over 1,000 document chunks for automated study plans and mock exams.
+- Developed a FastAPI and PostgreSQL backend with 13 REST endpoints, secure authentication, and real-time state synchronization in React 18.
 
----
+#### [DocumentSummarizer](https://github.com/M-AbubakarNadeem)
+A document processing tool that uses vector databases and transformer models for document summarization.
+- Combined BART, PEGASUS, and T5 models with an OpenAI fallback to maintain high availability.
+- Used FAISS vector index with Flask to handle document retrieval faster than standard keyword search.
 
-### 📜 Quest Log (Featured Projects)
+#### [Face Mask Detection](https://github.com/M-AbubakarNadeem/Face-Mask-Detection-System-Using-CNN)
+A computer vision model built to detect face masks in live video streams.
+- Fine-tuned MobileNetV2 and SSD ResNet-10 on 4,000 images, achieving 24 FPS inference with 88% accuracy.
+- Wrapped in a Flask application for deployment.
 
-#### ⚔️ **[UniSphere](https://github.com/M-AbubakarNadeem)** — AI Tutoring & Admissions Platform *(Final Year Project)*
-> An AI-powered platform for 50+ Pakistani universities offering personalized study planning and automated mock exam generation.
-> - **RAG Pipeline**: Built a semantic retrieval engine using `pgvector` and transformer models over 1,000+ educational documents.
-> - **Backend Architecture**: Designed a scalable FastAPI + PostgreSQL backend with 13+ REST APIs and JWT authentication.
-> - **Frontend**: React 18 + TypeScript interface with real-time AI state synchronization.
+#### [GPU vs CPU Binary Classification Benchmarks](https://github.com/M-AbubakarNadeem/Optimized-Binary-Classification-Serial-vs-parallel-and-GPU)
+A benchmark study testing serial CPU, parallel CPU, and GPU training speeds on tabular binary classification models.
+- Reduced model training times from 45 minutes on CPU to 12 minutes using CUDA acceleration with PyTorch and XGBoost.
 
-#### ⚔️ **[DocumentSummarizer](https://github.com/M-AbubakarNadeem)** — RAG-Based NLP Engine
-> Multi-LLM document processing system utilizing vector databases for high-precision document synthesis.
-> - **Multi-Model Orchestration**: Integrated BART, PEGASUS, and T5 models with an OpenAI fallback mechanism (99% uptime).
-> - **Vector Search**: Integrated FAISS vector store with Flask, processing documents 45% faster.
+#### [PadelBuds](https://github.com/M-AbubakarNadeem/PadelBuds)
+A web application for padel players to organize matches and track community games.
+- Built using TypeScript, React, Node.js, and PostgreSQL.
 
-#### ⚔️ **[Face Mask Detection](https://github.com/M-AbubakarNadeem/Face-Mask-Detection-System-Using-CNN)** — Real-Time Vision System
-> Computer vision pipeline trained on 4,000 images for live video classification.
-> - **Performance**: Achieved 24 FPS real-time inference with 88% accuracy using MobileNetV2 & SSD ResNet-10.
-> - **Deployment**: Deployed via Flask, capable of handling 500+ daily inference requests.
+***
 
-#### ⚔️ **[GPU vs CPU Benchmarking](https://github.com/M-AbubakarNadeem/Optimized-Binary-Classification-Serial-vs-parallel-and-GPU)** — High-Performance ML
-> Performance analysis comparing serial CPU, parallel CPU, and CUDA GPU execution on binary classification models.
-> - **Optimization**: Reduced training time from 45 min to 12 min (**3x GPU speedup**) for PyTorch and XGBoost.
-
-#### ⚔️ **[PadelBuds](https://github.com/M-AbubakarNadeem/PadelBuds)** — Sports Community & Matchmaker
-> Full-stack platform for padel players to schedule matches, find opponents, and manage games.
-> - **Stack**: Built with TypeScript, React, Node.js, and PostgreSQL.
-
----
-
-### 📊 Player Statistics
+### GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M-AbubakarNadeem&show_icons=true&theme=synthwave&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-AbubakarNadeem&layout=compact&theme=synthwave&hide_border=true" width="48%" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-AbubakarNadeem&theme=synthwave&hide_border=true" width="97%" />
-</div>
-
----
-
-<div align="center">
-  <code>Press [CTRL + D] to bookmark • Developed by Muhammad Abubakar Nadeem</code>
+  <img src="https://github-readme-stats.vercel.app/api?username=M-AbubakarNadeem&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-AbubakarNadeem&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
 </div>
