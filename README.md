@@ -57,10 +57,10 @@ A web application for padel players to organize matches and track community game
 
 ***
 
-### 🎮 Animated Contribution Grid
+### 🕹️ Pac-Man Arcade Contribution Grid
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/M-AbubakarNadeem/M-AbubakarNadeem/output/github-snake-dark.svg" alt="Animated Contribution Grid" width="100%" />
+  <img src="https://raw.githubusercontent.com/M-AbubakarNadeem/M-AbubakarNadeem/output/pacman.svg" alt="Pacman Contribution Graph" width="100%" />
 </div>
 
 ***
