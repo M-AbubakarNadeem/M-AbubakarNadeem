@@ -25,35 +25,35 @@ I graduated from FAST NUCES with a background in Computer Science and Data Scien
 ### Tech Stack
 
 - **Machine Learning & AI:** Python, PyTorch, TensorFlow, OpenCV, FAISS, Hugging Face, RAG, LangChain, Scikit-Learn, Pandas, NumPy
-- **Web & Databases:** TypeScript, JavaScript, React, FastAPI, Flask, Node.js, PostgreSQL, pgvector, C++
+- **Web & Databases:** TypeScript, JavaScript, React 18, D3.js, FastAPI, Flask, Node.js, PostgreSQL, pgvector, HTML5 / CSS3, C++
 - **Tools & Infrastructure:** Git, GitHub, Docker, CUDA GPU Acceleration, Tableau
 
 ***
 
 ### Featured Projects
 
-#### [UniSphere](https://github.com/M-AbubakarNadeem)
-An AI tutoring and university admissions platform designed for 50+ Pakistani universities.
-- Built a semantic retrieval system using `pgvector` and transformer models to process over 1,000 document chunks for automated study plans and mock exams.
-- Developed a FastAPI and PostgreSQL backend with 13 REST endpoints, secure authentication, and real-time state synchronization in React 18.
+#### UniSphere — AI Tutoring & Admissions Platform *(Final Year Project)*
+An AI-powered admissions and intelligent tutoring platform for 50+ Pakistani universities.
+- **RAG Architecture:** Implemented a semantic retrieval pipeline using `pgvector` embeddings and transformer models over 1,000+ educational document chunks for automated mock exam generation and study planning.
+- **Backend & APIs:** Engineered a FastAPI + PostgreSQL backend with 13 REST APIs, secure JWT authentication, and optimized LLM response orchestration achieving 99%+ reliability.
+- **Frontend Interface:** Developed a React 18 + TypeScript interface with dynamic university workflows and real-time state synchronization.
 
-#### [DocumentSummarizer](https://github.com/M-AbubakarNadeem)
-A document processing tool that uses vector databases and transformer models for document summarization.
-- Combined BART, PEGASUS, and T5 models with an OpenAI fallback to maintain high availability.
-- Used FAISS vector index with Flask to handle document retrieval faster than standard keyword search.
-
-#### [Face Mask Detection](https://github.com/M-AbubakarNadeem/Face-Mask-Detection-System-Using-CNN)
-A computer vision model built to detect face masks in live video streams.
-- Fine-tuned MobileNetV2 and SSD ResNet-10 on 4,000 images, achieving 24 FPS inference with 88% accuracy.
-- Wrapped in a Flask application for deployment.
+#### [Face Mask Detection System Using CNN](https://github.com/M-AbubakarNadeem/Face-Mask-Detection-System-Using-CNN)
+Real-time computer vision system built using PyTorch, OpenCV, and Flask.
+- Fine-tuned MobileNetV2 and SSD ResNet-10 on 4,000 images, achieving 24 FPS real-time video inference and 88% detection accuracy.
+- Optimized deployment pipeline handling 100+ concurrent live video stream requests.
 
 #### [GPU vs CPU Binary Classification Benchmarks](https://github.com/M-AbubakarNadeem/Optimized-Binary-Classification-Serial-vs-parallel-and-GPU)
-A benchmark study testing serial CPU, parallel CPU, and GPU training speeds on tabular binary classification models.
-- Reduced model training times from 45 minutes on CPU to 12 minutes using CUDA acceleration with PyTorch and XGBoost.
+Performance analysis comparing serial CPU, parallel CPU, and CUDA GPU execution on binary classification models.
+- Reduced model training times from 45 minutes on CPU to 12 minutes (**3x speedup**) using CUDA acceleration with PyTorch and XGBoost.
 
-#### [PadelBuds](https://github.com/M-AbubakarNadeem/PadelBuds)
-A web application for padel players to organize matches and track community games.
-- Built using TypeScript, React, Node.js, and PostgreSQL.
+#### [Graphica - Interactive TB Dashboard](https://github.com/M-AbubakarNadeem/Graphica-Interactive-Dashboard-for-TB-Using-D3-Techniques)
+Interactive data visualization dashboard built to analyze and present tuberculosis dataset trends.
+- Built with HTML, CSS, JavaScript, and D3.js techniques for dynamic data representation and filtering.
+
+#### [Electric Load Forecasting](https://github.com/M-AbubakarNadeem/Electric-Load-forecasting-Using-Data-Mining-Techniques)
+Data mining and predictive modeling project designed to forecast electrical load demands.
+- Built using Python, Scikit-Learn, Pandas, and Jupyter Notebooks to analyze historical consumption patterns.
 
 ***
 
@@ -65,9 +65,9 @@ A web application for padel players to organize matches and track community game
 
 ***
 
-### GitHub Activity
+### GitHub Activity & Language Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M-AbubakarNadeem&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-AbubakarNadeem&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=M-AbubakarNadeem&theme=github_dark" alt="GitHub Stats" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=M-AbubakarNadeem&theme=github_dark" alt="Top Languages" width="48%" />
 </div>
