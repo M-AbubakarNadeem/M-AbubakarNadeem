@@ -32,13 +32,13 @@ I graduated from FAST NUCES with a background in Computer Science and Data Scien
 
 ### Featured Projects
 
-#### UniSphere — AI Tutoring & Admissions Platform *(Final Year Project)*
+#### [UniSphere — AI Tutoring & Admissions Platform](https://github.com/M-AbubakarNadeem)
 An AI-powered admissions and intelligent tutoring platform for 50+ Pakistani universities.
 - **RAG Architecture:** Implemented a semantic retrieval pipeline using `pgvector` embeddings and transformer models over 1,000+ educational document chunks for automated mock exam generation and study planning.
 - **Backend & APIs:** Engineered a FastAPI + PostgreSQL backend with 13 REST APIs, secure JWT authentication, and optimized LLM response orchestration achieving 99%+ reliability.
 - **Frontend Interface:** Developed a React 18 + TypeScript interface with dynamic university workflows and real-time state synchronization.
 
-#### [Face Mask Detection System Using CNN](https://github.com/M-AbubakarNadeem/Face-Mask-Detection-System-Using-CNN)
+#### [Face Mask Detection System](https://github.com/M-AbubakarNadeem/Face-Mask-Detection-System-Using-CNN)
 Real-time computer vision system built using PyTorch, OpenCV, and Flask.
 - Fine-tuned MobileNetV2 and SSD ResNet-10 on 4,000 images, achieving 24 FPS real-time video inference and 88% detection accuracy.
 - Optimized deployment pipeline handling 100+ concurrent live video stream requests.
@@ -47,7 +47,7 @@ Real-time computer vision system built using PyTorch, OpenCV, and Flask.
 Performance analysis comparing serial CPU, parallel CPU, and CUDA GPU execution on binary classification models.
 - Reduced model training times from 45 minutes on CPU to 12 minutes (**3x speedup**) using CUDA acceleration with PyTorch and XGBoost.
 
-#### [Graphica - Interactive TB Dashboard](https://github.com/M-AbubakarNadeem/Graphica-Interactive-Dashboard-for-TB-Using-D3-Techniques)
+#### [Graphica — Interactive TB Dashboard](https://github.com/M-AbubakarNadeem/Graphica-Interactive-Dashboard-for-TB-Using-D3-Techniques)
 Interactive data visualization dashboard built to analyze and present tuberculosis dataset trends.
 - Built with HTML, CSS, JavaScript, and D3.js techniques for dynamic data representation and filtering.
 
