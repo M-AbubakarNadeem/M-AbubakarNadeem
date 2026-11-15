@@ -1,73 +1,64 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=60A5FA&center=true&vcenter=true&width=600&height=50&lines=Muhammad+Abubakar+Nadeem;AI%2FML+%2B+Full-Stack+Engineer" alt="Typing Header" />
+<!-- The images in assets/ are drawn by tools/make_assets.py. Change the text there and re-run it. -->
 
-  <p align="center">
-    <strong>Machine Learning & Full-Stack Developer</strong> • FAST NUCES Graduate
-  </p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+    <img src="assets/banner-light.svg" width="100%" alt="Muhammad Abubakar Nadeem, Agentic AI + Full-Stack Engineer. An animated pipeline shows a security alert moving through triage, ATT&CK mapping and a critic to an approved playbook.">
+  </picture>
+</p>
 
-  <p align="center">
-    <a href="https://www.linkedin.com/in/muhammad-abubakar-nadeem-045b582ba/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:abubakarnadeen01234@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
-    <a href="https://www.fiverr.com/abubakarnadem"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=flat-square&logo=fiverr&logoColor=white" alt="Fiverr" /></a>
-  </p>
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhammad-abubakar-nadeem-045b582ba/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:abubakarnadeen01234@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://alert2playbook-abubakar.vercel.app"><img src="https://img.shields.io/badge/Alert2Playbook-live%20demo-0891B2?style=flat-square" alt="Alert2Playbook live demo"></a>
+  <a href="https://www.fiverr.com/abubakarnadem"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=flat-square&logo=fiverr&logoColor=white" alt="Fiverr"></a>
+</p>
 
-***
+### About me
 
-### About
+I build AI agents and the software around them. Most of my recent work is multi-agent systems for security, retrieval (RAG) pipelines, and the checks that stop an agent from doing something it shouldn't.
 
-I build machine learning applications, RAG pipelines, and full-stack web platforms. My recent work focuses on semantic document search, real-time computer vision models, and building scalable backends with FastAPI and PostgreSQL.
+These days I'm Head of Digital Operations and Growth at **H2Ola**, a water delivery startup in Rawalpindi, where I look after the website, the delivery app and our online ads. I finished my BS in Data Science at FAST-NUCES in 2026. Before that I built LLM assistants at Funavry Technologies and ran AI labs for 40+ students as a lab demonstrator.
 
-I graduated from FAST NUCES with a background in Computer Science and Data Science. I've worked on autonomous AI agents at Funavry Technologies and analytics dashboards at Excelerate.
+### Things I've built
 
-***
+<p align="center">
+  <a href="https://github.com/M-AbubakarNadeem/Alert2Playbook"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-alert2playbook-dark.svg"><img src="assets/card-alert2playbook-light.svg" width="49%" alt="Alert2Playbook: a security alert goes in, a MITRE ATT&CK mapping and a reviewed response playbook come out in about 7 seconds. 83.3% recall, 810 techniques, 85 tests."></picture></a>
+  <a href="https://unisphere.me"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-unisphere-dark.svg"><img src="assets/card-unisphere-light.svg" width="49%" alt="UniSphere: one profile to apply to 10+ Pakistani universities, plus an AI tutor for 14 entry tests. Final year project, graded A+ and A."></picture></a>
+</p>
+<p align="center">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-wellmaster-dark.svg"><img src="assets/card-wellmaster-light.svg" width="49%" alt="WellMaster App: customer, rider and admin apps for an organic food brand from one React codebase, 488 tests. Private client code."></picture>
+  <a href="https://github.com/M-AbubakarNadeem/Near-Real-Time-Data-Warehouse-Using-HybridJoin"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-data-warehouse-dark.svg"><img src="assets/card-data-warehouse-light.svg" width="49%" alt="Near-Real-Time Data Warehouse: about 550,000 retail transactions streamed through HYBRIDJOIN into a MySQL star schema, 20 OLAP queries."></picture></a>
+</p>
 
-### Tech Stack
+<details>
+<summary><b>Course research papers</b> (3, click to open)</summary>
+<br>
 
-- **Machine Learning & AI:** Python, PyTorch, TensorFlow, OpenCV, FAISS, Hugging Face, RAG, LangChain, Scikit-Learn, Pandas, NumPy
-- **Web & Databases:** TypeScript, JavaScript, React 18, D3.js, FastAPI, Flask, Node.js, PostgreSQL, pgvector, HTML5 / CSS3, C++
-- **Tools & Infrastructure:** Git, GitHub, Docker, CUDA GPU Acceleration, Tableau
+| Paper | Course | What we found |
+|---|---|---|
+| [OADAF: reliable and secure computer-use agents](https://drive.google.com/file/d/1JEyHcfW8Y0PLN5vu2lF0a5OgtmKlcJ0m/view?usp=sharing) | Agentic AI, Spring 2026 | Letting agents read their own errors and retry took task success from 46% to 88% |
+| [Defending federated learning against poisoning](https://drive.google.com/file/d/1-YsqA5-RVD2-KIR3gZWOCNUyRRWX0Eda/view?usp=sharing) | Deep Learning for Perception, Fall 2025 | About 83% accuracy on CIFAR-10 under attack, where the original defense got 74% |
+| [Protecting neural networks from adversarial attacks](https://drive.google.com/file/d/1EU-AHBYxWxATC1SaCPqheStlenvhbUi_/view?usp=sharing) | Information Security, Fall 2025 | 97.5% accuracy on MNIST under PGD attack, against 87.3% with standard adversarial training |
 
-***
+</details>
 
-### Featured Projects
+### What I work with
 
-#### [UniSphere — AI Tutoring & Admissions Platform](https://github.com/M-AbubakarNadeem)
-An AI-powered admissions and intelligent tutoring platform for 50+ Pakistani universities.
-- **RAG Architecture:** Implemented a semantic retrieval pipeline using `pgvector` embeddings and transformer models over 1,000+ educational document chunks for automated mock exam generation and study planning.
-- **Backend & APIs:** Engineered a FastAPI + PostgreSQL backend with 13 REST APIs, secure JWT authentication, and optimized LLM response orchestration achieving 99%+ reliability.
-- **Frontend Interface:** Developed a React 18 + TypeScript interface with dynamic university workflows and real-time state synchronization.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
+    <img src="assets/stack-light.svg" width="100%" alt="Agents: LangGraph, LangChain, LangSmith, CrewAI, MCP, A2A. Retrieval: RAG, Pinecone, pgvector, FAISS, BM25, reranking, knowledge graphs. Models: OpenAI, Claude, Gemini, Groq, Mistral, Hugging Face. Apps: FastAPI, React, TypeScript, Capacitor, PostgreSQL, Redis, Celery, Docker, GitHub Actions. Data: Python, SQL, MySQL, pandas, ETL, OLAP.">
+  </picture>
+</p>
 
-#### [Face Mask Detection System](https://github.com/M-AbubakarNadeem/Face-Mask-Detection-System-Using-CNN)
-Real-time computer vision system built using PyTorch, OpenCV, and Flask.
-- Fine-tuned MobileNetV2 and SSD ResNet-10 on 4,000 images, achieving 24 FPS real-time video inference and 88% detection accuracy.
-- Optimized deployment pipeline handling 100+ concurrent live video stream requests.
+### Pac-Man vs. my contribution graph
 
-#### [GPU vs CPU Binary Classification Benchmarks](https://github.com/M-AbubakarNadeem/Optimized-Binary-Classification-Serial-vs-parallel-and-GPU)
-Performance analysis comparing serial CPU, parallel CPU, and CUDA GPU execution on binary classification models.
-- Reduced model training times from 45 minutes on CPU to 12 minutes (**3x speedup**) using CUDA acceleration with PyTorch and XGBoost.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/M-AbubakarNadeem/M-AbubakarNadeem/output/pacman-contribution-graph-dark.svg">
+    <img src="https://raw.githubusercontent.com/M-AbubakarNadeem/M-AbubakarNadeem/output/pacman-contribution-graph.svg" width="100%" alt="Pac-Man eating my GitHub contribution graph">
+  </picture>
+</p>
 
-#### [Graphica — Interactive TB Dashboard](https://github.com/M-AbubakarNadeem/Graphica-Interactive-Dashboard-for-TB-Using-D3-Techniques)
-Interactive data visualization dashboard built to analyze and present tuberculosis dataset trends.
-- Built with HTML, CSS, JavaScript, and D3.js techniques for dynamic data representation and filtering.
-
-#### [Electric Load Forecasting](https://github.com/M-AbubakarNadeem/Electric-Load-forecasting-Using-Data-Mining-Techniques)
-Data mining and predictive modeling project designed to forecast electrical load demands.
-- Built using Python, Scikit-Learn, Pandas, and Jupyter Notebooks to analyze historical consumption patterns.
-
-***
-
-### 🕹️ Pac-Man Arcade Contribution Grid
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/M-AbubakarNadeem/M-AbubakarNadeem/output/pacman-contribution-graph.svg" alt="Pacman Contribution Graph" width="100%" />
-</div>
-
-***
-
-### GitHub Activity & Language Stats
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=M-AbubakarNadeem&theme=github_dark" alt="GitHub Stats" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=M-AbubakarNadeem&theme=github_dark" alt="Top Languages" width="48%" />
-</div>
+<p align="center"><sub>Happy to talk about agents, RAG or AI security. The quickest way to reach me is LinkedIn.</sub></p>
